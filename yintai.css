@@ -17,7 +17,6 @@ body{
 .ahd{
 	height:450px;
 	width:450px;
-	/*  background:red;*/
 	position: absolute;
 	top:0px;
 	left:210px;
@@ -423,7 +422,6 @@ body{
 	.hd{
 		height:470px;
 		width:1920px;
-		/*background: blue;*/
 		margin:0 auto;
 		position: relative;
 	}
@@ -438,10 +436,9 @@ body{
 		position: absolute;
 		top: 0;
 		left: 0;
-		background: blue;
 	}
 	#fir12{
-		background: blue;
+		background: #E5004F;
 	}
 	.hd-img2{
 		position:absolute;
@@ -468,7 +465,6 @@ body{
 		bottom:200px;
 		left:574px;
 		z-index:10;
-		background: red;
 		opacity: 0.1;
 		font-size: 16px;
 		text-align: center;
@@ -497,7 +493,6 @@ body{
 	.hd-img-yuan{
 		height:10px;
 		width:30px;
-		background: red;
 		float:left;
 		margin-left:10px;
 
@@ -1014,7 +1009,6 @@ body{
 		height:295px;
 		width:1190px;
 		margin:0 auto;
-		/*background: red;*/
 		
 	}
 	.b{

@@ -327,10 +327,10 @@ var sign=true;
           
           for(var i=0;i<imgs.length;i++){
            imgs[i].style.zIndex=0;
-           yuan[i].style.background="red"
+           yuan[i].style.background="#211616"
          }
          imgs[n].style.zIndex=1;
-         yuan[n].style.background="blue";
+         yuan[n].style.background="#E5004F";
          
        }
 
@@ -345,9 +345,9 @@ var sign=true;
         
         imgs[n].style.zIndex=1;
         for(var i=0;i<imgs.length;i++){
-          yuan[i].style.background="red"
+          yuan[i].style.background="#E5004F"
         }
-        yuan[n].style.background="blue";
+        yuan[n].style.background="#211616";
       }
 
 
