@@ -369,10 +369,10 @@ var sign=true;
 
       yuan[i].onclick=function(){
         for(var i=0;i<imgs.length;i++){
-          yuan[i].style.background="red";
+          yuan[i].style.background="#211616";
           imgs[i].style.zIndex=0;
         } 
-        yuan[this.index].style.background="blue"
+        yuan[this.index].style.background="#E5004F";
         imgs[this.index].style.zIndex=1;
 
       }
